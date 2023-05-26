@@ -12,6 +12,9 @@
 
 > In this project, factors impacting price of homestay is analyzed and filtration of types of properties that have the better value of money will be discussed based on my personal preference. Score of reviews are revised as weighted average score according to the personal points of view for ratings. Besides, as a stranger to Seattle, I am curious which region and what season would be more expensive (or relatively cheap) to hire a place. Also, whether the score of review, amenities that I required, or any other factors would impact the price of stay? Thus, the relationship among region-related, review-related, and price of homestay would be analyzed.
 
+## Library Used
+> In the analysis, libraries including numpy, pandas, and matplotlib are used. Besides, seaborn is imported for visualization. Packages of sklearn are also introduced since functions such as train_test_split, Standard Scaler will be applied. In the project, model of linear regression is utilized and to achieve better performance, linear regression model is combined with transformed target regressor. Finally, the output is evaluated by value of r-squared and thus re_score is imported.
+
 ## Data Wraggling 
 
 > 1. Removal of unnecessary columns: 
@@ -38,7 +41,7 @@
 
 > The wrangled dataset of listings has 48 variables with 2555 rows. As many as data is trying to be reserved, but columns over one fifth of missing values, and rows with NaN are removed to avoid a biased result if the average value is inserted. 
 
-> Airbnb is one of the top resources to find a place to stay when I travel. Among numerous luxurious ameninities, all I care is a convenient free parking space, speedy WIFI, and a kitchen. In addition, since a car will be hired when travelling in the USA, the location of the stay is not really important. However, the feedback of cleanliness and value of money from others is crucial for me. As a result, new columns including 'review_scores_weighted' and 'required_amenities' are created to help me to analyze the places I would probably look for.
+> Airbnb is one of the top resources to find a place to stay when travelling. Among numerous luxurious ameninities, all I care is a convenient free parking space, speedy WIFI, and a kitchen. In addition, since a car will be hired when travelling in the USA, the location of the stay is not really important. However, the feedback of cleanliness and value of money from others is crucial for me. As a result, new columns including 'review_scores_weighted' and 'required_amenities' are created to help me to analyze the places I would probably look for.
 
 ## Summary of Findings
 
