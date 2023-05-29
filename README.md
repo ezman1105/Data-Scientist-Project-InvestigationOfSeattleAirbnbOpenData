@@ -4,7 +4,7 @@
 
 ## Motivation
 
-> Airbnb is one of the top resources to find a place to stay when I travel, and it is a unique and personalized resource for guests and travellers. Multiple types of properties in various regions can be selected, and travellers could look for a stay based on their requests. The datasets, as listed below, describe the listing activities of homestays, price and availability on days, and detail comments from reviewers in Airbnb of Seattle. 
+> Airbnb is one of the top resources to find a place to stay when I travel, and it is a unique and personalized resource for guests and travelers. Multiple types of properties in various regions can be selected, and travelers could look for a stay based on their requests. The datasets, as listed below, describe the listing activities of homestays, price and availability on days, and detail comments from reviewers in Airbnb of Seattle. 
 
 > a. Listings, including full descriptions and average review score 
 > b. Reviews, including unique id for each reviewer and detailed comments 
