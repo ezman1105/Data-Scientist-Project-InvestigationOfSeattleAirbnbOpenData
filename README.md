@@ -41,7 +41,7 @@
 
 > The wrangled dataset of listings has 48 variables with 2555 rows. As many as data is trying to be reserved, but columns over one fifth of missing values, and rows with NaN are removed to avoid a biased result if the average value is inserted. 
 
-> Airbnb is one of the top resources to find a place to stay when travelling. Among numerous luxurious ameninities, all I care is a convenient free parking space, speedy WIFI, and a kitchen. In addition, since a car will be hired when travelling in the USA, the location of the stay is not really important. However, the feedback of cleanliness and value of money from others is crucial for me. As a result, new columns including 'review_scores_weighted' and 'required_amenities' are created to help me to analyze the places I would probably look for.
+> Airbnb is one of the top resources to find a place to stay when traveling. Among numerous luxurious ameninities, all I care is a convenient free parking space, speedy WIFI, and a kitchen. In addition, since a car will be hired when traveling in the USA, the location of the stay is not really important. However, the feedback of cleanliness and value of money from others is crucial for me. As a result, new columns including 'review_scores_weighted' and 'required_amenities' are created to help me to analyze the places I would probably look for.
 
 ## Summary of Findings
 
@@ -58,11 +58,11 @@
 > From the investigaton, I would like to present insights as below: 
 > a. Capital Hill, Ballard, Belltown, Minor and Queen Anne are the top 5 regions where most of homestays are provided. In addition, house and apartment are the majority property type in Seattle.
 
-> b. As a family of four that cares about the quality of stay, regions such as Hight Point, Arbor Heights, Riverview, Harrison/Denny-Blaine and Licton Sprints should be investigated as higher priority due to the best average weighted reviews scores. On the contrary, areas including View Ridge, Pinehurst and University District should be avoided since the feedback from travellers is quite negative and the review scores are much lower than the average.
+> b. As a family of four that cares about the quality of stay, regions such as Hight Point, Arbor Heights, Riverview, Harrison/Denny-Blaine and Licton Sprints should be investigated as higher priority due to the best average weighted reviews scores. On the contrary, areas including View Ridge, Pinehurst and University District should be avoided since the feedback from travelers is quite negative and the review scores are much lower than the average.
 
 > c. Summer is the most busiest season in Seattle since the price of stay is the most expensive, compared to the price is relatively cheap in January.
 
-> d. Among regions with best average review scores, Yesler Terrace has the highest average cost of a stay with the required amenities, at more than USD150. Other places, on the other hand, ave the lower average price, ranging from USD50 and USD100. In other words, compared to Yesler Terrace travellers could spend 50% less if they stay in High Point, Arbor Hieghts, Riverview, Harrison/Denny-Blaine , or Licton Springs.
+> d. Among regions with best average review scores, Yesler Terrace has the highest average cost of a stay with the required amenities, at more than USD150. Other places, on the other hand, ave the lower average price, ranging from USD50 and USD100. In other words, compared to Yesler Terrace travelers could spend 50% less if they stay in High Point, Arbor Hieghts, Riverview, Harrison/Denny-Blaine , or Licton Springs.
 
 
 
