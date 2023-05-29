@@ -44,7 +44,7 @@
 
 > Airbnb is one of the top resources to find a place to stay when traveling. Among numerous luxurious ameninities, all I care is a convenient free parking space, speedy WIFI, and a kitchen. In addition, since a car will be hired when traveling in the USA, the location of the stay is not really important. However, the feedback of cleanliness and value of money from others is crucial for me. As a result, new columns including 'review_scores_weighted' and 'required_amenities' are created to help me to analyze the places I would probably look for.
 
-## Summary of Findings
+## Summary of Fingdings
 
 > The average cost of stay in Airbnb Seattle ranges from USD80 to USD120, and most properties locate in regions of Capital Hill, Ballard, Belltown, Minor and Queen Anne. The cost of accomodation varies a lot by different seasons. Obviously, the trend of price of stay increased from January and achieved yearly high in Summer, especially from July unitl the end of August. The gap of price difference could be more than 20% based on the data in 2016. Furthermore, the hosts in Airbnb Sealttle are very efficient. Most of the time, feedback from hosts could be received within couple of hours, and questions from customers are rarely ignored.
 
@@ -53,6 +53,9 @@
 > Price of stay becomes more expensive while more accomodates, bedrooms, beds, bathrooms and guests are requested. Places with greater numbers of reviews are also more expensive; however, properties with more monthly reviews would be cheaper. The linear regression model is based on a revised dataset combining with numerical and categorical variables. while the training section is scaled, the r-squared of the prediction is 68.38% which is higher than 63.4% of training section.
 
 > In summary, although the quotation and other variabels in Airbnb of Seattle may differ nowadays, the analysis demonstrates an overview of Airbnb in Seattle, including the speed of host respond, the trend of homestays price, price of regions with better comments of quality, and factors impacting cost of stay. The investigation provides a good practiece that efficiently filter places locate in high quality regions with relatively reasonable budget, and avoid costly rooms with negative experience.
+
+> The results of the analysis is written in my personal blog. Please feel free to refer to the link below.
+> https://medium.com/@johnma19821105/investigation-of-seattle-airbnb-open-data-4f598086ab4c
 
 ## Key Insights for Presentation
 
