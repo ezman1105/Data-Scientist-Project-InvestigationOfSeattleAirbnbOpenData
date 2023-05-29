@@ -14,6 +14,7 @@
 
 ## Library Used
 > In the analysis, libraries including numpy, pandas, and matplotlib are used. Besides, seaborn is imported for visualization. Packages of sklearn are also introduced since functions such as train_test_split, Standard Scaler will be applied. In the project, model of linear regression is utilized and to achieve better performance, linear regression model is combined with transformed target regressor. Finally, the output is evaluated by value of r-squared and thus re_score is imported.
+> For the detailed, please refer to the "requirements.txt"
 
 ## Data Wraggling 
 
