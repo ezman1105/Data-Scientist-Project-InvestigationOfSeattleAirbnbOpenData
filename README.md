@@ -46,7 +46,7 @@
 
 > Airbnb is one of the top resources to find a place to stay when traveling. Among numerous luxurious ameninities, all I care is a convenient free parking space, speedy WIFI, and a kitchen. In addition, since a car will be hired when traveling in the USA, the location of the stay is not really important. However, the feedback of cleanliness and value of money from others is crucial for me. As a result, new columns including 'review_scores_weighted' and 'required_amenities' are created to help me to analyze the places I would probably look for.
 
-## Summary of Fingdings
+## Summary of Findings
 
 > The average cost of stay in Airbnb Seattle ranges from USD80 to USD120, and most properties locate in regions of Capital Hill, Ballard, Belltown, Minor and Queen Anne. The cost of accomodation varies a lot by different seasons. Obviously, the trend of price of stay increased from January and achieved yearly high in Summer, especially from July unitl the end of August. The gap of price difference could be more than 20% based on the data in 2016. Furthermore, the hosts in Airbnb Sealttle are very efficient. Most of the time, feedback from hosts could be received within couple of hours, and questions from customers are rarely ignored.
 
