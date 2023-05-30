@@ -1,4 +1,4 @@
-![image](https://github.com/ezman1105/Data-Scientist-Project-InvestigationOfSeattleAirbnbOpenData/blob/main/pexels-info.jpeg)
+![image](https://github.com/ezman1105/Data-Scientist-Project-InvestigationOfSeattleAirbnbOpenData/blob/main/info.png)
 
 # Project - Investigation of Seattle Airbnb Open Data
 ## by Chih-Chuan Ma
