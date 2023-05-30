@@ -70,5 +70,5 @@
 
 > d. Among regions with best average review scores, Yesler Terrace has the highest average cost of a stay with the required amenities, at more than USD150. Other places, on the other hand, ave the lower average price, ranging from USD50 and USD100. In other words, compared to Yesler Terrace travelers could spend 50% less if they stay in High Point, Arbor Hieghts, Riverview, Harrison/Denny-Blaine , or Licton Springs.
 
-
-
+## Acknowledgments
+> [Insertion of pics in readme.md]([http://dillinger.io/ "link"](https://www.pexels.com/zh-tw/search/information/))
